@@ -37,7 +37,11 @@ function App() {
               From the Firehose
             </h3>
 
-            <Article/>
+            <Article region="" title="" date="" text="" img=""/>
+            <Article region="" title="" date="" text="" img=""/>
+            <Article region="" title="" date="" text="" img=""/>
+            <Article region="" title="" date="" text="" img=""/>
+
           </div>
 
           <div class="col-md-4">
