@@ -29,9 +29,7 @@ function App() {
       </div>
 
       <main class="container">
-      <div class="row mb-2">
           <Carousel />
-          </div>
 
         <div class="row g-5">
           <div class="col-md-8">
