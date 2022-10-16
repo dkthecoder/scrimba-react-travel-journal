@@ -5,7 +5,7 @@ import tokyo from './carousel/tokyo.webp';
 import india from './carousel/India.jpg';
 import durban from './carousel/Durban.jpg';
 
-function Article() {
+function Carousel() {
   return (
     <div id="myCarousel" class="carousel carousel-dark carousel-fade slide p-4 p-md-5 mb-4 rounded" data-bs-ride="carousel">
       <div class="carousel-indicators">
@@ -51,4 +51,4 @@ function Article() {
   );
 }
 
-export default Article;
+export default Carousel;
