@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was devleoped per the task: https://scrimba.com/learn/learnreact/react-section-2-solo-project-co74f46f2b22693c5ea577559
+
+For this project, I have used bootstrap 5 to framework the travel blog. I have made sure to pass data through props. Using a carousel to display images on the landing page. The small site is responsive depending on screen size.
+
+# Screenshot
+
+![screenshot](https://github.com/dkthecoder/scrimba-react-travel-journal/blob/master/Web%20capture_16-10-2022_19109_localhost.jpeg)
 
 ## Available Scripts
 
