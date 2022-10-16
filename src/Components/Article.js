@@ -1,4 +1,5 @@
 import './Article.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Article() {
   return (
